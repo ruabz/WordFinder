@@ -1,0 +1,7 @@
+C:\Users\ruabz\Programming\poiskslov\obj\Debug\poiskslov.csproj.AssemblyReference.cache
+C:\Users\ruabz\Programming\poiskslov\obj\Debug\poiskslov.csproj.CoreCompileInputs.cache
+C:\Users\ruabz\Programming\poiskslov\bin\Debug\poiskslov.exe.config
+C:\Users\ruabz\Programming\poiskslov\bin\Debug\poiskslov.exe
+C:\Users\ruabz\Programming\poiskslov\bin\Debug\poiskslov.pdb
+C:\Users\ruabz\Programming\poiskslov\obj\Debug\poiskslov.exe
+C:\Users\ruabz\Programming\poiskslov\obj\Debug\poiskslov.pdb
